@@ -4,11 +4,14 @@
 */Build
 */Binaries
 */DerivedDataCache
-*/Intermediate/
+*/Intermediate
 */Saved
 ExitGame/Content/StarterContent/
+
 
 ####################
 #VS Generated Files#
 ####################
-*.db
+*.VC.opendb
+*.VC.db
+ExitGame/.vs
